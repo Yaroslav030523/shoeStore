@@ -1,0 +1,69 @@
+.woman{
+  background-color: rgb(207, 207, 207);
+  color: white;
+}
+.cart-info{
+  color: white;
+  font-size: 20px
+}
+.product-img{
+  border-radius: 10px;
+  width: 100%;
+height: 70%;
+}
+.product-card{
+  color: white;
+transition: 0.3s;
+
+
+  padding:  10px 10px 10px 10px;
+  margin: 1% 1% 1% 1% ;
+  /* display: flex; */
+}
+.product-card:hover{
+  /* width: 330px;
+  height: 470px; */
+  /* margin: 0px */
+
+}
+.containerWoman{
+
+  margin: 0px;
+  /* display: flex; */
+  /* flex-direction: column; */
+
+}
+.product-list{
+
+
+  display: flex;
+  flex-wrap: wrap;
+}
+.productCardFullMan{
+  margin-top: 20px;
+  transition: 0.3s;
+  width: 300px;
+  height: 410px;
+  border-style:solid;
+  border-radius: 10px;
+  border-color: rgba(0, 255, 255, 0);
+  background-color: rgba(73, 227, 251, 0.199);
+}
+.productCardFullMan:hover{
+  width: 330px;
+  height: 470px;
+  margin: -15px;
+margin-bottom: -25px;
+}
+.price{
+  color: rgba(161, 250, 255, 0.71);
+  width: 50%;
+  border-radius: 10px;
+  font-size: 20px;
+
+  margin-top: -3%;
+
+}
+.menShoes{
+  color: rgb(12, 12, 255);
+}

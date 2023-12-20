@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "description": "Description of product 1",
+      "image": "https://media.istockphoto.com/id/1407127841/photo/white-sneaker-with-colored-accents-on-a-green-gradient-background-mens-fashion-sport-shoe-air.webp?b=1&s=612x612&w=0&k=20&c=_v0MED9olil4NSZb34UDVU_Z0YTmzfWL1XEyb5w2DnE=",
+      "price": 20
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "description": "Description of product 2",
+      "image": "https://media.istockphoto.com/id/1303978937/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%B1%D0%B5%D0%BB%D1%8B%D0%B5-%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BD%D0%B0-%D1%81%D0%B8%D0%BD%D0%B5%D0%BC-%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82%D0%B5-%D0%BC%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F-%D0%BC%D0%BE%D0%B4%D0%B0-%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F-%D0%BE%D0%B1%D1%83%D0%B2%D1%8C-%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8.jpg?s=612x612&w=0&k=20&c=oE6C9bbPNMNJeGCBsRwKKapnIOyJ7GzR1iVo12an82o=",
+      "price": 25
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "description": "Description of product 3",
+      "image": "https://media.istockphoto.com/id/1419090099/photo/white-sneaker-with-a-diversity-of-colors-shoe-on-a-white-gradient-background-yellow-pink-blue.webp?b=1&s=612x612&w=0&k=20&c=aWImXIIb0DzLRoGXJiLO5h03OC8b3K7fjnkXhxSZ4KU=",
+      "price": 30
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "description": "Description of product 34",
+      "image": "https://cdn.pixabay.com/photo/2016/06/03/17/35/shoes-1433925_1280.jpg",
+      "price": 44
+    },
+    {
+      "id": 5,
+      "name": "Product 5",
+      "description": "Description of product 5",
+      "image": "https://media.istockphoto.com/id/1350560575/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BF%D0%B0%D1%80%D0%B0-%D1%81%D0%B8%D0%BD%D0%B8%D1%85-%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%BE%D0%B2%D0%BE%D0%BA-%D0%BD%D0%B0-%D0%B1%D0%B5%D0%BB%D0%BE%D0%BC-%D1%84%D0%BE%D0%BD%D0%B5-%D0%B8%D0%B7%D0%BE%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B0.jpg?s=612x612&w=0&k=20&c=CJxKecyF77Tn4h0Yt72HLdSsUaLRXZja8D7pz7V5SPs=",
+      "price": 55
+    },
+    {
+      "id": 6,
+      "name": "Product 6",
+      "description": "Description of product 6",
+      "image": "https://media.istockphoto.com/id/495204892/photo/sneakers.webp?b=1&s=612x612&w=0&k=20&c=YejP6RIRNjw8uDEVAC-L7lsoedj_eG-D7zmajkf-STQ=",
+      "price": 44
+    },    {
+      "id": 7,
+      "name": "Product 7",
+      "description": "Description of product 7",
+      "image": "https://cdn.pixabay.com/photo/2014/05/18/11/26/shoes-346986_1280.jpg",
+      "price": 88
+    },    {
+      "id": 8,
+      "name": "Product 8",
+      "description": "Description of product 8",
+      "image": "https://cdn.pixabay.com/photo/2013/05/31/20/33/running-shoes-115149_640.jpg",
+      "price": 77
+    }
+  ]
+}

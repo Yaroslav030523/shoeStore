@@ -1,0 +1,56 @@
+/* Routes.css */
+
+.nav {
+  display: flex;
+  flex-direction: row; 
+}
+
+.nav a {
+  font-size: 30px;
+  color: white; 
+  text-decoration: none; 
+  margin-right: 10px; 
+  transition: 0.1s ease; 
+}
+
+.nav a:hover {
+  transform: scale(1.2); 
+  filter: brightness(1.4); 
+}
+
+.nav a:active {
+  color: red; 
+}
+
+.img-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.img-container img {
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: 0.3s ease; 
+}
+
+
+.img-container:hover img {
+  transform: scale(1.2); 
+  filter: brightness(1.4); 
+}
+
+@media (max-width: 600px) {
+  .nav {
+    flex-direction: column; 
+  }
+
+  .nav a {
+    margin-right: 0; 
+    margin-bottom: 5px; 
+  }
+  .img-container {
+    width: 20%;
+}
+}
+

@@ -1,0 +1,104 @@
+*{
+  box-sizing: border-box;
+}
+.header{
+  padding-top: 2%;
+  padding-left: 5%;
+  padding-right: 5%;
+  display: flex;
+  justify-content: space-between;
+}
+.logo{
+  
+}
+.logo:hover{
+color: blueviolet;
+}
+.navHeder{
+  margin: 5%;
+  }
+  body {
+    background-color: rgba(0, 0, 0, 0.959);
+  }
+
+
+.mainDiv{
+  padding-top: 2%;
+  display: flex;
+  margin-top: 20%;
+  margin-left: 70%;
+}
+.exclusive{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+
+  background-color: red;
+  border-radius: 7px;
+  width: 80px;
+height: 30px;
+}
+.bot{
+/* margin-top: 2%; */
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.INSPIRATION{
+  width: 20%;
+}
+.buyNow {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  border-style: solid;
+  margin: 2%;
+  width: 160px;
+  height: 50px;
+  background-color: rgba(255, 255, 255, 0);
+}
+.buyNow:hover{
+  transition: 0.2s;
+border-color: white;
+  border-style: solid;
+  background-color:white;
+  color: rgb(0, 0, 0);
+}
+.buyNow:active{
+  border-color: rgba(0, 0, 0, 0.808);
+}
+.buttoms{
+ padding-top: 50px;
+  width: 40%;
+  max-height: 50px;
+  /* justify-content: center;  */
+  display: flex;
+  align-items: center; 
+  flex-wrap: wrap;
+  margin-left: -20px;
+}
+.chouseColopContainer{
+  
+  width: 450px;
+  height: 100px;
+}
+.chouseColop{
+  transition: 0.3s;
+margin-top: 30px;
+  width: 120px;
+
+}
+.chouseColop:hover{
+  margin-top: 0px;
+  width: 140px;
+}
+@media (max-width: 600px){
+  .chouseColopContainer{
+  
+    width: 225px;
+    height: 50px;
+  }
+  .body {
+    background-image:url(../../img/mj.jpg);
+  }
+}

@@ -1,0 +1,16 @@
+
+
+.addToCartDutton{
+
+background-color: rgb(212, 187, 187);
+border-radius: 5px;
+font-size: 20px;
+}
+.addToCartDutton:hover{
+
+  background-color:  rgba(167, 243, 236, 0.879);
+}
+.namePrice{
+  display: flex;
+  justify-content: space-between;
+}
